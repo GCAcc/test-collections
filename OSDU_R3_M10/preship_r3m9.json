@@ -1,0 +1,69 @@
+{
+	"id": "5bf60c44-fa02-4d1d-b5b2-d06765e31cf9",
+	"name": "preship_r3m9",
+	"values": [
+		{
+			"key": "osduonaws_base_url",
+			"value": "https://r3m9.preshiptesting.osdu.aws",
+			"enabled": true
+		},
+		{
+			"key": "access_token",
+			"value": "eyJraWQiOiJZTVhMdGJcL2JWeE5WRnVFbG9RekUzSlZtUzFhZThsc0RmYzhIWTVCclU2MD0iLCJhbGciOiJSUzI1NiJ9.eyJvcmlnaW5fanRpIjoiOGZlMjBkNGYtOWIyYS00MTZkLWJlNTUtYmU0MTVkOGQ4MWM0Iiwic3ViIjoiMjlhZDcwY2YtN2Y5Zi00NTk5LTgwZmUtZmMwZjQyM2ZmODJkIiwidG9rZW5fdXNlIjoiYWNjZXNzIiwic2NvcGUiOiJvcGVuaWQgZW1haWwiLCJhdXRoX3RpbWUiOjE2NDY5MjI2OTYsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC51cy1lYXN0LTEuYW1hem9uYXdzLmNvbVwvdXMtZWFzdC0xX2hwZVpPNmR4RyIsImV4cCI6MTY0NjkyNjI5NiwiaWF0IjoxNjQ2OTIyNjk2LCJ2ZXJzaW9uIjoyLCJqdGkiOiIwMTQ2OWYwMi0xZmI2LTQ2MTYtODdmZi01NTA3MjVkNWQxOTYiLCJjbGllbnRfaWQiOiIzbTljNTFvcjIyaDJicGs0cW5nYzJ1M2JxaCIsInVzZXJuYW1lIjoiYWRtaW5AdGVzdGluZy5jb20ifQ.B5PgmDJmP5MgSVBHOHGwVCLEPPrucKs1ju8U_M22OWBCeDiilyHtNM840IU21-b96brU7U715MyRf3t1HNNyRwdK_IlJq8tdLNrdW_uNhLHUn661sKDcSoJuOJjs5O9Zg6LRgCZNJxUTaAbAzkh48L1k6cH1WNL-JT8XoxCbfodcAy_vI8LMuNXv1oT4ZC2TLxlJFo0RZP7GhlqzH1YBSHITR3jaayraG6Z7VdbKl6SAoeGuD0Vs6NgiwlBqxwONBVMnO9l6RWbaNSlIva1fubWEtnuTjXXacEXeRdavgWKNQ2uWheFYoK2LkRcRIMS_t3s37HNLeSLhWHHRbI0yGQ",
+			"enabled": true
+		},
+		{
+			"key": "refresh_token",
+			"value": "eyJjdHkiOiJKV1QiLCJlbmMiOiJBMjU2R0NNIiwiYWxnIjoiUlNBLU9BRVAifQ.d-qhKYUldhaFCkUFntcrEMva2Bka-a7rAWNEUyVBojMByJxoVrUPg-XfXtj22F0WAOW52NvtkQKw8wpC0Zr862xfQakGimYJczyzhUg4HGQZ9zusciPyQcjoqJhbHciNENGZUQVafwzgQQ7tYlV54ZRWvlpWEVKaAhnhWKfuAOk0pLXB1ebTLJoszY2Yn4i_EpB_ABFyWrPM8AzEWNAQETruiBLJh9LieHg535cx8OBAA6x-9Dp8c2YHa2NhtrdQ0oqoU3uWN8IPEXSbaBG2vJ3AN-pI9CoMfen5A-dS-Vm9tckFHEJKv4qg-fVN3OClb30AO3SX3mjVScwC6FsTuw.9QMnYw1kjow-vG96.MA_u8ZubUc6TW-HP0NS2nCRj0FU-c60GYyMyZGYa40KiWcRo35tMgmMdJuuAr2LbX12DGRK6pYm00ZfSbgXo9UVft5F1ClVzkgXiwRBHo4QDgBDOExKmmCxu1GXlm8ZV-2CPwmCPkRQWxl2ecVfjyz4VD9ceNhIi3dYp2qQE3SZd7ubT96crdYccvNcQiVdbyBoxISeo1nz4zCfsjjtwNbVeTrqOAGl3rD6LX1hbHc5A-bbu8o_gR4nCLcXp5b9bsiTqiEYtWM0gksmwuzwDXGlLFGqXMSUau1hNRGTJ2KHJ1_ABUEGG5QCmRTeEgYgCL-lk5ZpR_K7lHHWJwEl-kwbRNze0kPcCjm2iNkEJs-6pjl0YMkUlmU2McA9B-A5onzNWpnfU6BqdmEF0J1qaU-wbPfrlw4nWzqjnY8smb6NChh8GbdFFj9qZMN_LTZdDbGxnGN5GIBKlXpy6YwCxv0QDMzvEFPPC4nWoBh9CTN9KE2rAE6LraGxUE-Kyu_dMjTXauAPxwFjIeOsTlYI98XaSFIk808Wi8_pgoWBDj0N3vW-VYBSoSj3ZtsqszmWBV1qTY472NFZnErUyFVyKrG8_uPj_Z0rwMqjIJYL462oROESKiMJHswWKAHMtJh9Rqm58AAhSZc-HlUW9_tNwPnNLDSG62EhEiZ2UkZqdZlBnlQQhJ2sZ0NqurrMy7UmYE5CXzxvTZQwwioM-ZEzDllfsbZ7xXtTBGVlATp7VAz9dkAIybyTLCwXWC6FXZT4gg8iSaq1o1T5ZLc5MOJeTYvJ7kYHm9_Jk_iXvCyTLbTLE6LKEEPOKl5FqyhiZJTAppr4Ki9NtVk_Ga4hLDdYYgGMKqbNtsFcG9jFiApWhV6gKyFFZMYabeI6LWuYAeoALVYrI9-mVVxYA6KKNUcFZZ0eVBMDT0SUpspDul6I-MUk0Ks8034L217HIJt3t4wmfgdg-NlE586A9jemOq0lDDEWpAB_PxBkwSTP1mNse3StaFlVca_AfrA0f-BzcJFuN5oIp9kZsjfZVEBvZkfTgyX8SfWpcUV5Aa3eoJ9HTtT-ZIEG2W7mKN0TSy33d9HcqvaYiu3J9qNYxRk4wfP9da_rqyUFHlVPOXEIPTKAWHggnFy0i3DAdq0mD5yYAL_kP3i8-me4XPQRowlpBY9StV8owUenBOYDY51ODdP_x2YM6cuApCtvPa7S6ymwFtMqoyJJErfceN0gT00TgK_FsOhZo1hzoJF7xRbO2ABq9CoYt2YYNao4bFp2aAOAT0oPlAEbZn4SsOAuPd19RXEw.Ni5ryCFol69yJFpMVYOt4Q",
+			"enabled": true
+		},
+		{
+			"key": "id_token",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "auth_callback_url",
+			"value": "http://localhost",
+			"enabled": true
+		},
+		{
+			"key": "auth_authorize_url",
+			"value": "https://osdur3m9-561735291427.auth.us-east-1.amazoncognito.com/oauth2/authorize",
+			"enabled": true
+		},
+		{
+			"key": "auth_token_url",
+			"value": "https://osdur3m9-561735291427.auth.us-east-1.amazoncognito.com/oauth2/token",
+			"enabled": true
+		},
+		{
+			"key": "client_id",
+			"value": "3m9c51or22h2bpk4qngc2u3bqh",
+			"enabled": true
+		},
+		{
+			"key": "client_secret",
+			"value": "qgml5nplk15ugm4g17ggkc70oh0quk96kbfd11hj03j3907pi2j",
+			"enabled": true
+		},
+		{
+			"key": "data_partition_id",
+			"value": "osdu",
+			"enabled": true
+		},
+		{
+			"key": "cognito_userpool_id",
+			"value": "us-east-1_hpeZO6dxG",
+			"enabled": true
+		},
+		{
+			"key": "aws_region",
+			"value": "us-east-1",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-03-23T16:34:14.842Z",
+	"_postman_exported_using": "Postman/9.14.12"
+}
